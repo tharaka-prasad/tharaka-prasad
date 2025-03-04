@@ -23,10 +23,10 @@
 💻 Passionate Developer | 🔥 Tech Enthusiast | 🚀 Open Source Contributor  
 
 🔹 *I specialize in:*  
-- *Programming Languages:* C, C++, Python, Java  
+- *Programming Languages:* C, C++, Python, Java, php  
 - *Frontend:* React.js  
-- *Backend:* Node.js, Spring Boot  
-- *Database:* MySQL, MongoDB  
+- *Backend:* laravel, 
+- *Database:* MySQL
 
 🔹 I love building full-stack applications and solving complex problems with elegant code!  
 
@@ -54,12 +54,12 @@
   <a href="https://github.com/tharaka-prasad">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+<!--   <a href="https://www.linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  </a> -->
 </p>
 
 ---
