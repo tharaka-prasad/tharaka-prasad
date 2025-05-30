@@ -20,22 +20,22 @@
 ---
 
 ## 🌟 About Me  
-💻 Passionate Developer | 🔥 Tech Enthusiast | 🚀 Open Source Contributor  
+💻 Full-Stack Developer | 🎓 BIT (Hons) in Networking & Mobile Computing  
+📍 Based in Bandarawela, Sri Lanka | 💼 Open to Opportunities  
 
 🔹 *I specialize in:*  
-- *Programming Languages:* C, C++, Python, Java, php  
-- *Frontend:* React.js  
-- *Backend:* laravel, 
-- *Database:* MySQL
-
-🔹 I love building full-stack applications and solving complex problems with elegant code!  
+- **Languages:** C, C++, Python, Java, PHP  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Laravel  
+- **Databases:** MySQL  
+- **Tools:** Packet Tracer, Microsoft Office  
 
 ---
 
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,react,laravel,js,html,css,mysql,&theme=dark" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,react,laravel,js,html,css,mysql&theme=dark" alt="Tech Stack">
 </p>
 
 ---
@@ -48,18 +48,44 @@
 
 ---
 
+## 📚 Projects  
+- **Student Registration System** – Laravel, MySQL  
+- **CCNA Packet Tracer Labs** – VLAN, Telnet, Routing  
+- **Sustainability App (Back-End)** – Laravel, Reporting Tools  
+- **IoT-Based Rose Tunnel Monitoring** – ESP32, Laravel, MySQL  
+
+---
+
+## 🏆 Research & Certifications  
+- 🧠 *Dengue Fever Prediction using Machine Learning* (Horizon Campus Symposium, 2024)  
+- 📜 *Cisco Certifications:*  
+   - Introduction to IoT  
+   - Switching, Routing & Wireless Essentials  
+   - Enterprise Networking, Security & Automation  
+
+---
+
+## 👨‍💼 Work Experience  
+**Axcertro Pvt Ltd (Intern, 2024)**  
+Developed and maintained Laravel apps, collaborated with designers, optimized performance.
+
+**Sky Smart Technology (Associate, 2025)**  
+Built APIs, tracked data, and maintained system performance.
+
+---
+
 ## 👯‍♂️ Connect with Me  
 
 <p align="center">
   <a href="https://github.com/tharaka-prasad">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-<!--   <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/tharaka-prasad-0408bb241/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:tharakaprasad04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a> -->
+  </a>
 </p>
 
 ---
