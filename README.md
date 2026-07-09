@@ -11,10 +11,10 @@
 
 ### `$ whoami`
 
-**Full-Stack Developer** · **BIT (Hons) Networking & Mobile Computing**  
+**Full-Stack Developer** · **BIT (Hons) Networking & Mobile Computing**
 📍 Bandarawela, Sri Lanka &nbsp;·&nbsp; 💼 Open to Opportunities
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Full-Stack+Web+Apps;Laravel+%7C+React+%7C+MySQL;IoT+%7C+Networking+%7C+ML;Open+to+Collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+Full-Stack+Web+Apps;Laravel+%7C+React+%7C+TypeScript+%7C+Inertia.js;IoT+%7C+Networking+%7C+Machine+Learning;Open+to+Collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
@@ -36,6 +36,7 @@ role       : Full-Stack Developer
 degree     : BIT (Hons) — Networking & Mobile Computing
 location   : Bandarawela, Sri Lanka
 status     : Open to Opportunities
+stack      : Laravel · React · TypeScript · Inertia.js · Tailwind CSS · MySQL
 focus      : Web Apps · IoT · Machine Learning · Networking
 ```
 
@@ -50,6 +51,7 @@ focus      : Web Apps · IoT · Machine Learning · Networking
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Frontend**
 
@@ -57,6 +59,8 @@ focus      : Web Apps · IoT · Machine Learning · Networking
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
 
 **Backend & Database**
 
@@ -68,6 +72,8 @@ focus      : Web Apps · IoT · Machine Learning · Networking
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-IoT-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
@@ -75,25 +81,36 @@ focus      : Web Apps · IoT · Machine Learning · Networking
 
 | # | Project | Stack | Highlights |
 |---|---------|-------|------------|
-| 01 | **Student Registration System** | Laravel · MySQL | CRUD, Auth, Reporting |
-| 02 | **CCNA Packet Tracer Labs** | Cisco · Networking | VLAN, Telnet, Routing |
-| 03 | **Sustainability App (Back-End)** | Laravel · API | Reporting Tools, REST API |
-| 04 | **IoT Rose Tunnel Monitor** | ESP32 · Laravel · MySQL | Real-time Sensor Dashboard |
+| 01 | **Call Center Management System** | Laravel · Inertia.js · React · TS · MySQL | Multi-role access, reporting, RBAC |
+| 02 | **POS System** | Laravel · React · MySQL | Inventory, sales & customer management |
+| 03 | **Payroll Management System** | Laravel · React · MySQL | Employee & payroll processing |
+| 04 | **Ai Geeks Web App** | Laravel · React · Tailwind CSS · MySQL | Freelance full-stack build |
+| 05 | **IoT Rose Tunnel Monitor** | ESP32 · Laravel · MySQL · ThingSpeak | Real-time sensor dashboard |
+| 06 | **Sustainability App (Back-End)** | Laravel · MySQL · Linux | Reporting tools, REST API |
+| 07 | **Dengue Fever Prediction** | Python · Machine Learning | Research paper, Horizon Campus Symposium |
+| 08 | **CCNA Packet Tracer Labs** | Cisco · Networking | VLAN, Telnet, Routing, Switching |
 
 ---
 
 ## `$ cat experience.log`
 
 ```
-[2024] ─── Axcertro Pvt Ltd ───────────────────────── Intern Developer
-           ├── Built & maintained Laravel web applications
-           ├── Collaborated with UI/UX designers
-           └── Optimized backend performance
+[2024]        ─── Axcertro Pvt Ltd ──────────────────────── Intern Developer
+               ├── Built & maintained Laravel web applications
+               ├── Collaborated with UI/UX designers
+               └── Optimized backend performance & API integration
 
-[2025] ─── Sky Smart Technology ──────────────────── Associate Developer
-           ├── Designed and built REST APIs
-           ├── Tracked and managed live data pipelines
-           └── Maintained system performance & stability
+[Jan-Jul 2025] ─── Sky Smart Technology ─────────────────── Associate Developer
+               ├── Managed Linux servers & secure hosting environments
+               ├── Built RESTful APIs, React interfaces, Laravel services
+               ├── Integrated Google Cloud Storage & Git workflows
+               └── Led Production Tracking System, deployed IoT Andon devices
+
+[Aug 2025-]    ─── EkrainTecnologies & Solution ─────────── Associate Developer
+[Jul 2026]     ├── Built full-stack apps: Laravel, React, TypeScript, MySQL
+               ├── Delivered POS, Call Center & Payroll Management Systems
+               ├── Designed & integrated RESTful APIs
+               └── Hosted, deployed & maintained production Linux environments
 ```
 
 ---
@@ -102,14 +119,15 @@ focus      : Web Apps · IoT · Machine Learning · Networking
 
 ### 🧠 Research
 
-> **Dengue Fever Prediction using Machine Learning**  
-> *Presented at Horizon Campus Research Symposium — 2024*
+> **Dengue Fever Prediction using Machine Learning**
+> *Presented at Horizon Campus Information Technology Symposium — May 2024*
+> [ResearchGate Publication →](https://www.researchgate.net/publication/380875366_Dengue_Fever_Prediction_using_Machine_Learning)
 
 ### 📜 Cisco Certifications
 
-- ✅ Introduction to IoT
-- ✅ Switching, Routing & Wireless Essentials
-- ✅ Enterprise Networking, Security & Automation
+- ✅ Introduction to IoT — *University of Moratuwa, 2022*
+- ✅ Switching, Routing & Wireless Essentials — *University of Moratuwa, 2023*
+- ✅ Enterprise Networking, Security & Automation — *University of Moratuwa, 2023*
 
 ---
 
